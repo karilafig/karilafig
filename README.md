@@ -14,9 +14,9 @@
   <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently learning **Go**
-- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
+- :office: &nbsp;I'm currently working in **Cybersecurity**.
+- :seedling: &nbsp;I’m currently learning **Python/Javascript**
+- :speech_balloon: &nbsp;I like to talk about **Front-end development** and **Cybersecurity**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
@@ -143,7 +143,6 @@
 
 <h2 align="left">Coding Activity</h2>
 
-> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
 
 <!-- prettier-ignore-start -->
 <!-- START_SECTION:ascii_graph -->
@@ -159,6 +158,4 @@
 
 <!-- links -->
 
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+[linkedin]: https://www.linkedin.com/in/karinafigueiroalves "Karina Figueiró LinkedIn"
