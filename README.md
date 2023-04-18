@@ -29,7 +29,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" width="48" height="48" alt="C#" />
+        <img src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" width="48" height="48" alt="Bash" />
       </a>
       <br>C#&nbsp;(Core)
     </td>
