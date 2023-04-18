@@ -17,7 +17,6 @@
 - :office: &nbsp;I'm currently working in **Cybersecurity**.
 - :seedling: &nbsp;I’m currently learning **Python/Javascript**
 - :speech_balloon: &nbsp;I like to talk about **Front-end development** and **Cybersecurity**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
@@ -30,7 +29,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" width="48" height="48" alt="C#" />
       </a>
       <br>C#&nbsp;(Core)
     </td>
