@@ -47,7 +47,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/angular.svg" width="48" height="48" alt="Angular" />
       </a>
       <br>Jsonnet
     </td>
