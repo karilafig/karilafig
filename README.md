@@ -41,9 +41,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" width="48" height="48" alt="Kali" />
       </a>
-      <br>Go
+      <br>Kali Linux
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
