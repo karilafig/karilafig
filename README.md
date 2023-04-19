@@ -91,9 +91,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/vmware-player.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://e7.pngegg.com/pngimages/965/159/png-clipart-vmware-workstation-player-computer-icons-computer-file-scalable-graphics-text-orange.png" width="48" height="48" alt="VMWARE" />
       </a>
-      <br>Kubernetes
+      <br>VMWare
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
