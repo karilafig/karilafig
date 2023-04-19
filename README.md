@@ -11,7 +11,7 @@
 </p>
 
 <a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/karilafig/github-stats-transparent/output/generated/overview.svg" alt="Karina" align="right" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foctodex.github.com%2F&psig=AOvVaw1qATpMjvtuSkIZpDc5iw__&ust=1681950584737000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNj-0azYtP4CFQAAAAAdAAAAABAE" alt="Karina" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working in **Cybersecurity**.
