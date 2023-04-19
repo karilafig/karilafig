@@ -91,7 +91,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://e7.pngegg.com/pngimages/965/159/png-clipart-vmware-workstation-player-computer-icons-computer-file-scalable-graphics-text-orange.png" width="48" height="48" alt="VMWARE" />
+        <img src="https://upload.wikimedia.org/wikipedia/en/7/7d/VMware_Player_logo.png" width="48" height="48" alt="VMWARE" />
       </a>
       <br>VMWare
     </td>
