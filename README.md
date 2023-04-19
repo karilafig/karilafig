@@ -49,7 +49,7 @@
       <a href="#macropower-tech">
         <img src="./img/angular.svg" width="48" height="48" alt="Angular" />
       </a>
-      <br>Jsonnet
+      <br>Angular
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -65,9 +65,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" width="48" height="48" alt="React" />
       </a>
-      <br>React
+      <br>Wordpress
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -77,9 +77,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="./img/elastic.svg" width="48" height="48" alt="Elastic" />
       </a>
-      <br>Sass
+      <br>Elastic
     </td>
   </tr>
   <tr>
@@ -101,12 +101,6 @@
       </a>
       <br>Debian
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
-    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
@@ -124,18 +118,6 @@
         <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
       </a>
       <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>Thanos
     </td>
   </tr>
 </table>
