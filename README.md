@@ -11,7 +11,7 @@
 </p>
 
 <a href="#macropower-title">
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Karina" align="right" width="200" height="300" />
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Karina" align="right" width="300" height="200" />
 </a>
 
 - :office: &nbsp;I'm currently working in **Cybersecurity**.
