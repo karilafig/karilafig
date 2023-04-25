@@ -122,7 +122,7 @@
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karilafig&theme=transparent"/>
 <!-- links -->
 
 [linkedin]: https://www.linkedin.com/in/karinafigueiroalves "Karina Figueiró LinkedIn"
