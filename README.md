@@ -11,7 +11,7 @@
 </p>
 
 <a href="#macropower-title">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karilafig&theme=transparent" alt="Karina" align="right" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karilafig&theme=transparent" alt="Karina" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working in **Cybersecurity**.
