@@ -11,13 +11,13 @@
 </p>
 
 <a href="#macropower-title">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karilafig&theme=transparent" alt="Karina" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working in **Cybersecurity**.
 - :seedling: &nbsp;I’m currently learning **Python/Javascript**
 - :speech_balloon: &nbsp;I like to talk about **Front-end development** and **Cybersecurity**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karilafig&theme=transparent" alt="Karina" align="right" />
 <br>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
