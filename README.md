@@ -11,7 +11,7 @@
 </p>
 
 <a href="#macropower-title">
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Karina" align="right" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karilafig&theme=transparent" alt="Karina" align="right" width="300" />
 </a>
 
 - :office: &nbsp;I'm currently working in **Cybersecurity**.
@@ -122,7 +122,8 @@
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karilafig&theme=transparent"/>
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Karina" align="right" width="300" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karilafig&theme=transparent"/>
 <!-- links -->
 
 [linkedin]: https://www.linkedin.com/in/karinafigueiroalves "Karina Figueiró LinkedIn"
