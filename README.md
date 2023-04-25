@@ -121,7 +121,7 @@
     </td>
   </tr>
 </table>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
 <!-- links -->
 
 [linkedin]: https://www.linkedin.com/in/karinafigueiroalves "Karina Figueiró LinkedIn"
