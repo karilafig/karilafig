@@ -118,6 +118,12 @@
       </a>
       <br>Grafana
     </td>
+     <td align="center" width="96">
+      <a href="#karilafig-tech" >
+        <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" width="48" height="48" alt="Photoshop" />
+      </a>
+      <br>Photoshop
+    </td>
   </tr>
 </table>
 
