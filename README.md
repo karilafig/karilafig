@@ -124,6 +124,12 @@
       </a>
       <br>Photoshop
     </td>
+    <td align="center" width="96">
+      <a href="#karilafig-tech" >
+        <img src="https://media.inkscape.org/static/images/inkscape-logo.svg" width="48" height="48" alt="Inkscape" />
+      </a>
+      <br>Inkscape
+    </td>
   </tr>
 </table>
 
