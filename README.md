@@ -132,9 +132,9 @@
     </td>
     <td align="center" width="96">
       <a href="#karilafig-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="48" height="48" alt="Figma" />
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="48" height="48" alt="Figma" />
       </a>
-      <br>Inkscape
+      <br>Figma
     </td>
   </tr>
 </table>
