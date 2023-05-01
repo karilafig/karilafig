@@ -76,7 +76,7 @@
     </td>
     <td align="center" width="96">
       <a href="#karilafig-tech">
-        <img src="./img/elastic.svg" width="48" height="48" alt="Elastic" />
+        <img src="https://cdn.worldvectorlogo.com/logos/crowdstrike-1.svg" width="48" height="48" alt="Crowdstrike" />
       </a>
       <br>Elastic
     </td>
