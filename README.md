@@ -146,3 +146,11 @@
 <!-- links -->
 
 [linkedin]: https://www.linkedin.com/in/karinafigueiroalves "Karina Figueiró LinkedIn"
+
+###
+
+<br clear="both">
+
+![Snake Animation](https://raw.githubusercontent.com/SarahRafaela/SarahRafaela/output/snake.svg)
+
+###
