@@ -151,6 +151,6 @@
 
 <br clear="both">
 
-![Snake Animation](https://raw.githubusercontent.com/SarahRafaela/SarahRafaela/output/snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/karilafig/karilafig/output/snake.svg)
 
 ###
