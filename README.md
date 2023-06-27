@@ -148,5 +148,5 @@
 [linkedin]: https://www.linkedin.com/in/karinafigueiroalves "Karina Figueiró LinkedIn"
 
 <picture>
-  <img alt="github-snake" src=".img/github-user-contribution.svg" />
+  <img alt="github-snake" src="./img/github-user-contribution.svg" />
 </picture>
