@@ -147,7 +147,7 @@
 
 [linkedin]: https://www.linkedin.com/in/karinafigueiroalves "Karina Figueiró LinkedIn"
 
-<h1 align="left" id="karilafig-title">Github snake 🐍</h1>
+<h1 align="left" id="karilafig-title">Contributions 🐍</h1>
 
 ![snake gif](https://github.com/karilafig/karilafig/blob/output/github-contribution-grid-snake.svg)
 
