@@ -147,5 +147,5 @@
 
 [linkedin]: https://www.linkedin.com/in/karinafigueiroalves "Karina Figueiró LinkedIn"
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/karilafig/karilafig/blob/output/github-contribution-grid-snake.svg)
 
