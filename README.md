@@ -142,12 +142,15 @@
 <h2 align="left" id="karilafig-tech">Most used languages</h2>
 
 > The languages I use most on my github
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karilafig&theme=transparent"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karilafig&theme=transparent" alt="Top Languages" />
+</p>
+
 <!-- links -->
 
 [linkedin]: https://www.linkedin.com/in/karinafigueiroalves "Karina Figueiró LinkedIn"
 
-<h1 align="left" id="karilafig-title">Contributions 🐍</h1>
+<h2 align="left" id="karilafig-title">Contributions 🐍</h2>
 
 ![snake gif](https://github.com/karilafig/karilafig/blob/output/github-contribution-grid-snake.svg)
 
